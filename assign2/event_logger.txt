@@ -1,0 +1,76 @@
+Starting simulation...
+t=1 Client 1 arrived at queue 1 and will have to wait 8s.
+t=3 Client 2 arrived at queue 2 and will have to wait 5s.
+t=5 Client 3 arrived at queue 2 and will have to wait 8s.
+t=6 Client 4 arrived at queue 1 and will have to wait 8s.
+t=7 Client 5 arrived at queue 2 and will have to wait 8s.
+t=9 Client 6 arrived at queue 1 and will have to wait 5s.
+t=11 Client 7 arrived at queue 1 and will have to wait 9s.
+t=12 Client 8 arrived at queue 2 and will have to wait 9s.
+t=13 Client 9 arrived at queue 1 and will have to wait 7s.
+t=14 Client 10 arrived at queue 2 and will have to wait 6s.
+t=16 Client 11 arrived at queue 2 and will have to wait 7s.
+t=18 Client 12 arrived at queue 1 and will have to wait 9s.
+t=20 Client 13 arrived at queue 1 and will have to wait 6s.
+t=21 Client 14 arrived at queue 2 and will have to wait 7s.
+t=22 Client 15 arrived at queue 1 and will have to wait 7s.
+t=24 Client 16 arrived at queue 2 and will have to wait 8s.
+t=26 Client 17 arrived at queue 1 and will have to wait 7s.
+t=28 Client 18 arrived at queue 2 and will have to wait 5s.
+t=30 Client 19 arrived at queue 1 and will have to wait 8s.
+t=31 Client 20 arrived at queue 1 and will have to wait 6s.
+t=33 Client 21 arrived at queue 2 and will have to wait 7s.
+t=34 Client 22 arrived at queue 2 and will have to wait 5s.
+t=36 Client 23 arrived at queue 2 and will have to wait 5s.
+t=38 Client 24 arrived at queue 1 and will have to wait 7s.
+... Simulation ended
+
+Simulation ran for 40 seconds.
+Generated clients: 25/25
+Average waiting time per client: 6.68
+Peak hour was at second 35 with a total of 14 clients.
+Queue 1 served 12 clients with a total of 87s as waiting time and was empty for 1s.
+Queue 2 didn't finish processing the clients. 7 client(s) remaining.
+Queue 2 served 12 clients with a total of 80s as waiting time and was empty for 3s.
+Queue 3 didn't finish processing the clients. 7 client(s) remaining.
+Queue 3 served 0 clients with a total of 0s as waiting time and was empty for 0s.
+Queue 4 served 0 clients with a total of 0s as waiting time and was empty for 0s.
+Queue 5 served 0 clients with a total of 0s as waiting time and was empty for 0s.
+
+
+Starting simulation...
+t=2 Client 1 arrived at queue 1 and will have to wait 3s.
+t=4 Client 2 arrived at queue 2 and will have to wait 3s.
+t=5 Client 3 arrived at queue 1 and will have to wait 4s.
+t=6 Client 4 arrived at queue 1 and will have to wait 5s.
+t=7 Client 5 arrived at queue 2 and will have to wait 4s.
+t=9 Client 6 arrived at queue 2 and will have to wait 5s.
+t=11 Client 7 arrived at queue 1 and will have to wait 5s.
+t=13 Client 8 arrived at queue 2 and will have to wait 4s.
+t=14 Client 9 arrived at queue 1 and will have to wait 4s.
+t=15 Client 10 arrived at queue 2 and will have to wait 4s.
+t=16 Client 11 arrived at queue 1 and will have to wait 4s.
+t=18 Client 12 arrived at queue 2 and will have to wait 4s.
+t=20 Client 13 arrived at queue 1 and will have to wait 5s.
+t=22 Client 14 arrived at queue 2 and will have to wait 5s.
+t=23 Client 15 arrived at queue 1 and will have to wait 4s.
+t=25 Client 16 arrived at queue 2 and will have to wait 4s.
+t=26 Client 17 arrived at queue 1 and will have to wait 4s.
+t=28 Client 18 arrived at queue 2 and will have to wait 4s.
+t=29 Client 19 arrived at queue 1 and will have to wait 3s.
+t=30 Client 20 arrived at queue 2 and will have to wait 5s.
+t=31 Client 21 arrived at queue 1 and will have to wait 3s.
+t=33 Client 22 arrived at queue 2 and will have to wait 3s.
+... Simulation ended
+
+Simulation ran for 50 seconds.
+Generated clients: 22/22
+Average waiting time per client: 4.0454545
+Peak hour was at second 31 with a total of 8 clients.
+Queue 1 served 11 clients with a total of 44s as waiting time and was empty for 9s.
+Queue 2 served 11 clients with a total of 45s as waiting time and was empty for 7s.
+Queue 3 served 0 clients with a total of 0s as waiting time and was empty for 0s.
+Queue 4 served 0 clients with a total of 0s as waiting time and was empty for 0s.
+Queue 5 served 0 clients with a total of 0s as waiting time and was empty for 0s.
+
+
